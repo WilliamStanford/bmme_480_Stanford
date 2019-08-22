@@ -1,2 +1,2 @@
 # bmme_480_Stanford
-Hello Git README
+Bye Git README
