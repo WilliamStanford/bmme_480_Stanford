@@ -1,2 +1,3 @@
 # bmme_480_Stanford
-Bye Git README
+ 
+ Thomas modified hello.txt for me
