@@ -1,9 +1,3 @@
-Hello Git
 
-Ciao Git
-
-Hola Git
-
-Goodday
 
 Thomas wrote this
